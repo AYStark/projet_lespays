@@ -1,0 +1,4 @@
+/.env/
+__pycache__/
+src/db.sqlite3
+src/country/.config
